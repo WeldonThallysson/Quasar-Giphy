@@ -1,0 +1,531 @@
+@media screen and (max-width: 1600px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 380px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(4, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 10px 25px;
+    margin: 15px 15px;
+    height: 300px;
+    width: 355px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 320px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1440px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 380px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(3, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 12px;
+    height: 300px;
+    width: 445px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 400px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1366px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 350px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(3, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 5px;
+    height: 300px;
+    width: 425px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 400px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1360px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 350px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(3, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 5px;
+    height: 300px;
+    width: 425px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 400px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 350px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(3, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 5px;
+    height: 300px;
+    width: 325px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 250px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 35px 20px;
+  }
+  .Input_Search {
+    width: 200px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(2, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 15px;
+    height: 300px;
+    width: 340px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 250px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 20px;
+  }
+  .Input_Search {
+    width: 200px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+    display: none;
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(1, 0.6fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 28px;
+    height: 300px;
+    width: 340px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 250px;
+    height: 200px;
+  }
+}
+@media screen and (max-width: 375px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 20px;
+  }
+  .Input_Search {
+    width: 200px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+    display: none;
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 30px;
+    height: 300px;
+    width: 290px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 250px;
+    height: 200px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 20px;
+  }
+  .Input_Search {
+    width: 200px;
+    margin-right: 15px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+    display: none;
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(1, 1fr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 0px;
+    height: 300px;
+    width: 290px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 250px;
+    height: 200px;
+  }
+}
+
+@media screen and (max-width: 280px) {
+  .header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+  }
+
+  .Div_Search {
+    display: flex;
+    flex-direction: row;
+    margin: 10px 35px;
+  }
+  .Input_Search {
+    width: 180px;
+    margin-left: 22px;
+
+    color: aliceblue;
+  }
+  .Parallax__Image {
+    display: none;
+  }
+  .Title_Giphy {
+    font-size: 30px;
+  }
+  .List_Items {
+    display: grid;
+    flex-direction: row;
+    grid-template-columns: repeat(1, 0.2wfr);
+    margin: 0 0rem;
+  }
+  .Items_Giphy {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    padding: 0px 20px;
+    margin: 15px 0px;
+    height: 300px;
+    width: 250px;
+    background-color: rgb(255, 255, 255);
+  }
+  .Subtitle_Giphy {
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: underline;
+  }
+
+  .giphys {
+    width: 220px;
+    height: 200px;
+  }
+}
