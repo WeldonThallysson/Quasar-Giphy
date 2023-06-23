@@ -32,6 +32,10 @@ Bem-vindo ao projeto Quasar Giphy Teste! Este repositório contém uma aplicaç�
 Após a conclusão da instalação e configuração, você pode executar o projeto localmente usando o seguinte comando:
 Isso iniciará o servidor de desenvolvimento e você poderá acessar o aplicativo em seu navegador usando a URL `http://localhost:8080`.
 
+## Projeto em Produção
+
+Link do Deploy: https://quasargiphyteste.netlify.app/#/
+
 ## Contribuição
 
 Se você quiser contribuir para este projeto, siga as etapas abaixo:
